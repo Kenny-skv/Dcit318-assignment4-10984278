@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\Login\Login\bin\Debug\net8.0-windows\Login.exe
+C:\Users\DELL\source\repos\Login\Login\bin\Debug\net8.0-windows\Login.deps.json
+C:\Users\DELL\source\repos\Login\Login\bin\Debug\net8.0-windows\Login.runtimeconfig.json
+C:\Users\DELL\source\repos\Login\Login\bin\Debug\net8.0-windows\Login.dll
+C:\Users\DELL\source\repos\Login\Login\bin\Debug\net8.0-windows\Login.pdb
+C:\Users\DELL\source\repos\Login\Login\obj\Debug\net8.0-windows\Login.Form1.resources
+C:\Users\DELL\source\repos\Login\Login\obj\Debug\net8.0-windows\Login.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Login\Login\obj\Debug\net8.0-windows\Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Login\Login\obj\Debug\net8.0-windows\Login.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Login\Login\obj\Debug\net8.0-windows\Login.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Login\Login\obj\Debug\net8.0-windows\Login.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Login\Login\obj\Debug\net8.0-windows\Login.dll
+C:\Users\DELL\source\repos\Login\Login\obj\Debug\net8.0-windows\refint\Login.dll
+C:\Users\DELL\source\repos\Login\Login\obj\Debug\net8.0-windows\Login.pdb
+C:\Users\DELL\source\repos\Login\Login\obj\Debug\net8.0-windows\Login.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Login\Login\obj\Debug\net8.0-windows\ref\Login.dll
